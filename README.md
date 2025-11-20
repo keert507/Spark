@@ -1,4 +1,6 @@
 # Spark
+## NAME: ABIRAMI A
+## REGISTER NUMBER: 212224040010
 
 ## Aim:
 Write a PySpark program to perform data analytics by loading a large dataset into Spark, cleaning it, and computing statistical summaries and aggregations.
@@ -500,7 +502,6 @@ best_category.show()
 low_sales_products = rev_per_product.filter(F.col("total_qty") < 100)
 low_sales_products.show()
 ```
-
 
 
 
