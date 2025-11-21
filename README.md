@@ -1,6 +1,6 @@
 # Spark
-## NAME: ABIRAMI A
-## REGISTER NUMBER: 212224040010
+## NAME: keeerthana T
+## REGISTER NUMBER: 212224100031
 
 ## Aim:
 Write a PySpark program to perform data analytics by loading a large dataset into Spark, cleaning it, and computing statistical summaries and aggregations.
